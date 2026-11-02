@@ -1,9 +1,0 @@
-{
-  "name": "campuscopilot-workspace",
-  "private": true,
-  "scripts": {
-    "dev": "npm --prefix frontend run dev",
-    "build": "npm --prefix frontend run build",
-    "backend": "python -m uvicorn main:app --reload --port 8000"
-  }
-}
