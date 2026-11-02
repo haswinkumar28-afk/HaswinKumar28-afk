@@ -1,5 +1,0 @@
-# tinyfish requires Python 3.11+
-tinyfish
-fastapi
-uvicorn
-python-dotenv
